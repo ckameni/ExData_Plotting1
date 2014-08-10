@@ -3,7 +3,6 @@
 #################                                        ######################
 #################################################################################
 
-
 # function to calculate the Data size
 
 predictDataSize = function(size, type = "numeric") {
